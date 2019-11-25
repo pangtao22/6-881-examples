@@ -1,0 +1,9 @@
+*.pyc
+.ipynb_checkpoints
+*.json
+.DS_Store
+.idea
+*.gz
+*.pdf
+*.py~
+autograder*
