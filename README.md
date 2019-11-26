@@ -1,7 +1,7 @@
 # 6-881-examples
 
 This repository contains a collection of tools for interacting with robots
- and cameras, developed to support the Intelligent Robot Manipulation class [(MIT 6.881)](https://manipulation.csail.mit.edu/).
+ and cameras, developed to support the Intelligent Robot Manipulation class [(MIT 6.881)](http://manipulation.csail.mit.edu/).
 
 ## Docker Use with Graphics Support
 
