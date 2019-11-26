@@ -29,8 +29,7 @@ $ DISPLAY=:100 jupyter notebook --ip 0.0.0.0 --port 8080 --allow-root --no-brows
 - `robot_control` contains the part of problem set 5 which runs
  three different controllers on a simulated robot. 
 - `camera_sim` includes examples of using Drake's RGBD camera simulators
-. Specifically, `rgbd_camera_simulation.ipynb` shows how to construct a
- `Diagram` system that includes a RGBD camera simulator from scratch
- ; `run_cameras_manipulation_station.ipynb` shows how to access the three
+. Specifically, `rgbd_camera_simulation.ipynb` shows how to construct from
+ scratch a `Diagram` system that includes a RGBD camera simulator; `run_cameras_manipulation_station.ipynb` shows how to access the three
   RGBD cameras already inside `ManipulationStation`.
 
